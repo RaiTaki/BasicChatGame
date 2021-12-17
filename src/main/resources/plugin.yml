@@ -1,0 +1,8 @@
+name: VantaChatGames
+version: '${project.version}'
+main: xyz.raitaki.vantachatgames.main
+api-version: 1.16
+commands:
+  cgbildirim:
+  cgkelimeekle:
+  cgreload:
